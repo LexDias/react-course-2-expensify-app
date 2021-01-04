@@ -1,0 +1,10 @@
+{
+    "presets": [
+        "env", 
+        "react"
+    ],
+    "plugins": [
+        "transform-class-properties", // permite declaração de propriedades fora do constructor e métodos como arrow functions
+        "transform-object-rest-spread"
+    ]
+}
